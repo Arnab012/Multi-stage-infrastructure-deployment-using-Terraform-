@@ -1,3 +1,7 @@
+<img width="624" height="715" alt="image" src="https://github.com/user-attachments/assets/3dac36b5-0c8d-4ade-b533-0fae9176c607" />
+
+
+
 # Multi-stage-infrastructure-deployment-using-Terraform-
 # Terraform In One Shot
 This repository is your one stop solution for Terraform for DevOps Engineers 
